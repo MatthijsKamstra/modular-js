@@ -1,0 +1,16 @@
+-lib modular-js
+-cp src
+view.Test
+-js bin/test.js
+# -debug
+# -dce full
+
+--next
+
+
+-lib modular-js
+-cp src
+-main Main
+-js bin/main.js
+# -debug
+# -dce full
