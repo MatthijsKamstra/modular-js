@@ -10,3 +10,8 @@ build with `Haxe Compiler 3.4.0 - (C)2005-2016 Haxe Foundation` on OSX 10.12.2
 <null pos>:1: character 0 : Called from
 Aborted
 ```
+
+
+<https://github.com/HaxeFoundation/haxe/issues/5944>
+
+Need to wait for a new nightly build from Haxe to get this working
