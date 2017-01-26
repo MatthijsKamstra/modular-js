@@ -1,0 +1,5 @@
+-cmd haxe run.hxml
+# -cmd neko run -expose a -src b -debug c
+-cmd cd example
+-cmd haxelib run modular-js -expose -debug -export _export
+-cmd haxe modular.hxml

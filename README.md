@@ -50,6 +50,14 @@ Quite simply, the modular-js generator will output ES6 modules for each class in
 
 3. You must specify all of the classes of all the dynamic entry points in your hxml file. This tells the compiler to consider each class for Dead Code Elimination when outputting the files of the Haxe Standard Library.
 
+
+
+```
+cd path/to/folder
+haxelib run modular-js
+```
+
+
 ## FAQ
 
 1. Why would you do this?

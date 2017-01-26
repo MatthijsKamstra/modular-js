@@ -1,5 +1,6 @@
 package;
 
+@:expose
 class Main {
 
 	public function new () {
